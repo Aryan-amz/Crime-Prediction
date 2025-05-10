@@ -59,13 +59,12 @@ The project also includes features for crime analysis visualization (though the 
 
 ### Steps
 
-1.  **Clone the Repository (if applicable)**
-    If this project is hosted on a version control system like Git, clone it:
+1.  **Clone the Repository**
+    Clone the project from GitHub:
     ```bash
-    git clone <repository_url>
-    cd <project_directory_name>
+    git clone https://github.com/Aryan-amz/Crime-Prediction.git
+    cd Crime-Prediction
     ```
-    If you have the files locally, navigate to the project's root directory.
 
 2.  **Create and Activate a Virtual Environment**
     It's best practice to use a virtual environment to manage project dependencies.
